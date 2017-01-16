@@ -1,2 +1,3 @@
 # react-boilerplate
-Minimal React Boilerplate
+
+> Minimal React Boilerplate
