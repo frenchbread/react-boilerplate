@@ -13,3 +13,10 @@ $ npm install
 ```
 $ npm run compile
 ```
+
+
+### Start
+
+```
+$ npm start
+```
