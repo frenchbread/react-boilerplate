@@ -4,9 +4,11 @@
     "allowImportExportEverywhere": true,
     "ecmaVersion": 7
   },
-  "plugins": [],
+  "plugins": [
+    "react"
+  ],
   "extends": [
-    "airbnb-base",
+    "airbnb-base"
   ],
   "settings": {},
   "rules": {
